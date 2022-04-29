@@ -1,0 +1,3 @@
+export const LOGIN_ACTION_TYPES = {
+  HIDE_LOGIN_FORM: "HIDE_LOGIN_FORM",
+};
